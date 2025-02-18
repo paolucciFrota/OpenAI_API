@@ -1,4 +1,4 @@
-###🇧🇷
+#🇧🇷
 
 A documentação da OpenAI é extremamente confusa e espero que com esse código você possa usar a api como eu consigui nos meus projetos.
 
@@ -19,7 +19,7 @@ Agora é só abrir o terminal e digitar
 ```
 node index.js
 ```
-###🇺🇸
+#🇺🇸
 
 The OpenAI documentation is extremely confusing and I hope that with this code you can use the api as I have in my projects.
 
