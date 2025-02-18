@@ -1,6 +1,6 @@
 🇧🇷
 
-A documentação da OpenAI é extremamente confusa e espero que com esse código você possa usar a api como eu consigui nos meus projetos.
+A documentação da OpenAI é extremamente confusa e espero que com esse código você possa usar a api como eu consegui nos meus projetos.
 
 Em primeiro momento lembre-se de instalar o node.js e em seguida o openai usando o comando
 ```
